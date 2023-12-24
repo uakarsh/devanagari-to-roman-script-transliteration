@@ -49,6 +49,7 @@ consonants = OrderedDict([
 ('ड़','r'),
 ('ड़','r'), #these two are very different, see them in unicode by 'ड़'.encode('utf-8'). You'll see.
 ('ढ','dh'), 
+('ढ़े', 'dh'),
 ('ण','n'), 
 
 ('त','t'), 
